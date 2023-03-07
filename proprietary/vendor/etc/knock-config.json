@@ -1,0 +1,15 @@
+{
+  "knockConfigs": [{
+    "displayVersion": "18",
+    "deviceProperty": 1,
+    "localAlgorithmPath": "/vendor/etc/knock_haydn_18.dlc",
+    "knockRegion": "2,2,2,2",
+    "deviceX":"16,36",
+    "knockScoreThreshold": 0.6,
+    "deviceName": "haydn,haydnin",
+    "useFrame": "3",
+    "quickMoveSpeed": "2.5",
+    "sensorThreshold": "60,60,60,60"
+  }
+  ]
+}
